@@ -1,5 +1,5 @@
 """
-Problem 1 🡪 Take from user N number, Print the summation of the
+Take from user N number, Print the summation of the
 numbers that are between 1 and N without using loops.
 """
 
