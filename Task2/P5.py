@@ -1,5 +1,5 @@
 """
-problem 5 🡪 What is the output of the following code ? why ?
+What is the output of the following code ? why ?
 print(round(6.5) - round(3.5) == 3)
 """
 
