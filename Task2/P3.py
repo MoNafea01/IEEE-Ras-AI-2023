@@ -1,5 +1,5 @@
 """
-Problem 3 🡪 Take from user x number and prints the factorial of
+Take from user x number and prints the factorial of
 number X
 """
 
