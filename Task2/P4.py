@@ -1,5 +1,5 @@
 """
-Problem 4 🡪 Take from the user a list and remove duplicated items then
+Take from the user a list and remove duplicated items then
 print it
 """
 
