@@ -1,5 +1,5 @@
 """
-Problem 2 🡪 Take from user three numbers A, B, and C, and print them in
+Take from user three numbers A, B, and C, and print them in
 ascending order in one line.
 """
 
